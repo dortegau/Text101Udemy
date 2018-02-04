@@ -4,3 +4,5 @@ Learn To Code by Making Games Udemy course :)
 
 This is an example of a Text Game using Unity 5 & MonoDevelop defining a Finite State Machine
 and using commands (key press events) to move between different states.
+
+Could be seen working at this URL: https://dortegau.github.io/Text101Udemy/index.html
